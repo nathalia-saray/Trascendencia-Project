@@ -12,7 +12,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Simple Stock</a>
+      <a class="navbar-brand" href="#">Trascendencia s.a.s</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -23,7 +23,7 @@
 		<li class="<?php if (isset($active_usuarios)){echo $active_usuarios;}?>"><a href="usuarios.php"><i  class='glyphicon glyphicon-user'></i> Usuarios</a></li>
        </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="http://obedalvarado.pw/contacto/" target='_blank'><i class='glyphicon glyphicon-envelope'></i> Soporte</a></li>
+        <li><a href="" target='_blank'><i class='glyphicon glyphicon-envelope'></i> </a></li>
 		<li><a href="login.php?logout"><i class='glyphicon glyphicon-off'></i> Salir</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
