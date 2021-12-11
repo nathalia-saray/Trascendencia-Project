@@ -18,7 +18,7 @@ Instalación (servidor local)
 
 5- Configurar los datos de conexión a la base de datos editando el archivo de configuración que se encuentra en la siguiente ruta: trascendencia_project/config/db.php
 
-6- Vista web: http://localhost/trascendencia_project/
+6- Vista web: http://localhost/trascendencia-project/
 
 7- Datos de acceso por defecto: usuario: admin y contraseña: admin
 
